@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Rescuer.EventBus.IoC\Rescuer.EventBus.IoC.csproj" />
+    <ProjectReference Include="..\Rescuer.EventBus.RabbitMQ\Rescuer.EventBus.RabbitMQ.csproj" />
+  </ItemGroup>
+
+
+</Project>

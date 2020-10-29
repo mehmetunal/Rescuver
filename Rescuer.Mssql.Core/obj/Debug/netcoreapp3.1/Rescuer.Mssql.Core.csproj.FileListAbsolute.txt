@@ -1,0 +1,11 @@
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\bin\Debug\netcoreapp3.1\Rescuer.Mssql.Core.deps.json
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\bin\Debug\netcoreapp3.1\Rescuer.Mssql.Core.dll
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\bin\Debug\netcoreapp3.1\Rescuer.Mssql.Core.pdb
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\obj\Debug\netcoreapp3.1\Rescuer.Mssql.Core.csprojAssemblyReference.cache
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\obj\Debug\netcoreapp3.1\Rescuer.Mssql.Core.AssemblyInfoInputs.cache
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\obj\Debug\netcoreapp3.1\Rescuer.Mssql.Core.AssemblyInfo.cs
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\obj\Debug\netcoreapp3.1\Rescuer.Mssql.Core.dll
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\obj\Debug\netcoreapp3.1\Rescuer.Mssql.Core.pdb
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\bin\Debug\netcoreapp3.1\Rescuer.Entites.dll
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\bin\Debug\netcoreapp3.1\Rescuer.Entites.pdb
+D:\Personal\Projes\Rescuer\Rescuer.Mssql.Core\obj\Debug\netcoreapp3.1\Rescuer.Mssql.Core.csproj.CopyComplete

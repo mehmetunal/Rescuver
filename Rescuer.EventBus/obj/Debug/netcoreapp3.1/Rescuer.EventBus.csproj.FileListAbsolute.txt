@@ -1,0 +1,9 @@
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\bin\Debug\netcoreapp3.1\Rescuer.EventBus.deps.json
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\bin\Debug\netcoreapp3.1\Rescuer.EventBus.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\bin\Debug\netcoreapp3.1\Rescuer.EventBus.pdb
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\obj\Debug\netcoreapp3.1\Rescuer.EventBus.csprojAssemblyReference.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\obj\Debug\netcoreapp3.1\Rescuer.EventBus.AssemblyInfoInputs.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\obj\Debug\netcoreapp3.1\Rescuer.EventBus.AssemblyInfo.cs
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\obj\Debug\netcoreapp3.1\Rescuer.EventBus.csproj.CoreCompileInputs.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\obj\Debug\netcoreapp3.1\Rescuer.EventBus.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus\obj\Debug\netcoreapp3.1\Rescuer.EventBus.pdb

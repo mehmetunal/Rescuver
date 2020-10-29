@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJtoHbsF9kX0c67/z8KTFYTUfKpszUnHvJccUpo+oegyoaviB2KO9GZitac6+I6/YTM8aQ5w+dBk3CXIdukXqg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.Example.Publish\\Rescuer.EventBus.Example.Publish.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\m.unal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\m.unal\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\m.unal\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.2\\microsoft.extensions.logging.abstractions.3.1.2.nupkg.sha512",
+    "C:\\Users\\m.unal\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\m.unal\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\m.unal\\.nuget\\packages\\polly\\7.2.1\\polly.7.2.1.nupkg.sha512",
+    "C:\\Users\\m.unal\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

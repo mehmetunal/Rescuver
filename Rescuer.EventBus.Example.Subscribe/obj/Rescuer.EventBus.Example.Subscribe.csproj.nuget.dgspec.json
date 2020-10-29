@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.Example.Subscribe\\Rescuer.EventBus.Example.Subscribe.csproj": {}
+  },
+  "projects": {
+    "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.Example.Subscribe\\Rescuer.EventBus.Example.Subscribe.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.Example.Subscribe\\Rescuer.EventBus.Example.Subscribe.csproj",
+        "projectName": "Rescuer.EventBus.Example.Subscribe",
+        "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.Example.Subscribe\\Rescuer.EventBus.Example.Subscribe.csproj",
+        "packagesPath": "C:\\Users\\m.unal\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.Example.Subscribe\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.unal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.IoC\\Rescuer.EventBus.IoC.csproj": {
+                "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.IoC\\Rescuer.EventBus.IoC.csproj"
+              },
+              "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.RabbitMQ\\Rescuer.EventBus.RabbitMQ.csproj": {
+                "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.RabbitMQ\\Rescuer.EventBus.RabbitMQ.csproj"
+              },
+              "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus\\Rescuer.EventBus.csproj": {
+                "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus\\Rescuer.EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.IoC\\Rescuer.EventBus.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.IoC\\Rescuer.EventBus.IoC.csproj",
+        "projectName": "Rescuer.EventBus.IoC",
+        "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.IoC\\Rescuer.EventBus.IoC.csproj",
+        "packagesPath": "C:\\Users\\m.unal\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.unal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.RabbitMQ\\Rescuer.EventBus.RabbitMQ.csproj": {
+                "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.RabbitMQ\\Rescuer.EventBus.RabbitMQ.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.RabbitMQ\\Rescuer.EventBus.RabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.RabbitMQ\\Rescuer.EventBus.RabbitMQ.csproj",
+        "projectName": "Rescuer.EventBus.RabbitMQ",
+        "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.RabbitMQ\\Rescuer.EventBus.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\m.unal\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus.RabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.unal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus\\Rescuer.EventBus.csproj": {
+                "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus\\Rescuer.EventBus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus\\Rescuer.EventBus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus\\Rescuer.EventBus.csproj",
+        "projectName": "Rescuer.EventBus",
+        "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus\\Rescuer.EventBus.csproj",
+        "packagesPath": "C:\\Users\\m.unal\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.EventBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\m.unal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

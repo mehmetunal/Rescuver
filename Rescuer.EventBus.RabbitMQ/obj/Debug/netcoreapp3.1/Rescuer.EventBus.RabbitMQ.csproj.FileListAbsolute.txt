@@ -1,0 +1,12 @@
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.deps.json
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.pdb
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Rescuer.EventBus.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\bin\Debug\netcoreapp3.1\Rescuer.EventBus.pdb
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.csprojAssemblyReference.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.AssemblyInfoInputs.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.AssemblyInfo.cs
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.csproj.CopyComplete
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.RabbitMQ\obj\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.pdb

@@ -1,0 +1,14 @@
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\bin\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.deps.json
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\bin\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\bin\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.pdb
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\bin\Debug\netcoreapp3.1\Rescuer.EventBus.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\bin\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\bin\Debug\netcoreapp3.1\Rescuer.EventBus.RabbitMQ.pdb
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\bin\Debug\netcoreapp3.1\Rescuer.EventBus.pdb
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\obj\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.csprojAssemblyReference.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\obj\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.AssemblyInfoInputs.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\obj\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.AssemblyInfo.cs
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\obj\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.csproj.CoreCompileInputs.cache
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\obj\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.csproj.CopyComplete
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\obj\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.dll
+D:\Personal\Projes\Rescuer\Rescuer.EventBus.IoC\obj\Debug\netcoreapp3.1\Rescuer.EventBus.IoC.pdb
