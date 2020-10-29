@@ -5703,11 +5703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Npgsql.Core\\Rescuer.Npgsql.Core.csproj",
+      "projectUniqueName": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Mssql.Core\\Rescuer.Npgsql.Core.csproj",
       "projectName": "Rescuer.Npgsql.Core",
-      "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Npgsql.Core\\Rescuer.Npgsql.Core.csproj",
+      "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Mssql.Core\\Rescuer.Npgsql.Core.csproj",
       "packagesPath": "C:\\Users\\m.unal\\.nuget\\packages\\",
-      "outputPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Npgsql.Core\\obj\\",
+      "outputPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Mssql.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
