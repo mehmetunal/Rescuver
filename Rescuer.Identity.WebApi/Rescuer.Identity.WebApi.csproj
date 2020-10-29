@@ -24,7 +24,7 @@
     <ProjectReference Include="..\Rescuer.Core\Rescuer.Core.csproj" />
     <ProjectReference Include="..\Rescuer.DTO\Rescuer.DTO.csproj" />
     <ProjectReference Include="..\Rescuer.Framework\Rescuer.Framework.csproj" />
-    <ProjectReference Include="..\Rescuer.Mssql.Core\Rescuer.Npgsql.Core.csproj" />
+    <ProjectReference Include="..\Rescuer.Npgsql.Core\Rescuer.Npgsql.Core.csproj" />
   </ItemGroup>
 
 </Project>

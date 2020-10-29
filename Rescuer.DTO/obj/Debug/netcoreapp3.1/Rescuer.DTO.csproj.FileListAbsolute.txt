@@ -10,7 +10,6 @@ C:\Users\Omer\Source\Repos\Rescuer\Rescuer.DTO\obj\Debug\netcoreapp3.1\Rescuer.D
 D:\Personal\Projes\Rescuer\Rescuer.DTO\bin\Debug\netcoreapp3.1\Rescuer.DTO.deps.json
 D:\Personal\Projes\Rescuer\Rescuer.DTO\bin\Debug\netcoreapp3.1\Rescuer.DTO.dll
 D:\Personal\Projes\Rescuer\Rescuer.DTO\bin\Debug\netcoreapp3.1\Rescuer.DTO.pdb
-D:\Personal\Projes\Rescuer\Rescuer.DTO\obj\Debug\netcoreapp3.1\Rescuer.DTO.csprojAssemblyReference.cache
 D:\Personal\Projes\Rescuer\Rescuer.DTO\obj\Debug\netcoreapp3.1\Rescuer.DTO.AssemblyInfoInputs.cache
 D:\Personal\Projes\Rescuer\Rescuer.DTO\obj\Debug\netcoreapp3.1\Rescuer.DTO.AssemblyInfo.cs
 D:\Personal\Projes\Rescuer\Rescuer.DTO\obj\Debug\netcoreapp3.1\Rescuer.DTO.csproj.CoreCompileInputs.cache

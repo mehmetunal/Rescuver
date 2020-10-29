@@ -6,7 +6,6 @@ using Rescuer.Entites.Npgsql;
 using Rescuer.Framework.Security.Token;
 using System;
 using System.Linq;
-using Rescuer.Core.IoC;
 
 namespace Rescuer.Identity.WebApi.Services
 {

@@ -9556,8 +9556,8 @@
     },
     "Rescuer.Npgsql.Core/1.0.0": {
       "type": "project",
-      "path": "../Rescuer.Mssql.Core/Rescuer.Npgsql.Core.csproj",
-      "msbuildProject": "../Rescuer.Mssql.Core/Rescuer.Npgsql.Core.csproj"
+      "path": "../Rescuer.Npgsql.Core/Rescuer.Npgsql.Core.csproj",
+      "msbuildProject": "../Rescuer.Npgsql.Core/Rescuer.Npgsql.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9613,8 +9613,8 @@
             "D:\\Personal\\Projes\\Rescuer\\Rescuer.Framework\\Rescuer.Framework.csproj": {
               "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Framework\\Rescuer.Framework.csproj"
             },
-            "D:\\Personal\\Projes\\Rescuer\\Rescuer.Mssql.Core\\Rescuer.Npgsql.Core.csproj": {
-              "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Mssql.Core\\Rescuer.Npgsql.Core.csproj"
+            "D:\\Personal\\Projes\\Rescuer\\Rescuer.Npgsql.Core\\Rescuer.Npgsql.Core.csproj": {
+              "projectPath": "D:\\Personal\\Projes\\Rescuer\\Rescuer.Npgsql.Core\\Rescuer.Npgsql.Core.csproj"
             }
           }
         }
